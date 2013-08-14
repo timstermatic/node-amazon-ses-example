@@ -26,7 +26,7 @@ ses.sendEmail(
 			},
 			Body: {
 				Text: {
-						Data: 'Stop your messing around',
+					Data: 'Stop your messing around',
 				}
 			}
 		}
